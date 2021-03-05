@@ -26,4 +26,7 @@ dependencies {
 
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
+    
+    //Kryonet
+    compile group: 'com.esotericsoftware', name: 'kryonet', version: '2.22.0-RC1'
 }
